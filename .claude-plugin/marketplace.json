@@ -8,7 +8,7 @@
       "name": "ste-zh",
       "source": "./",
       "description": "Agent reports in plain Traditional Chinese by ASD-STE100 principles (zh-TW fork of dualface/ste-zh)",
-      "version": "1.0.0"
+      "version": "1.0.1"
     }
   ]
 }
